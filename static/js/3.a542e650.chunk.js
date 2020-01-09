@@ -1,0 +1,2 @@
+(this["webpackJsonppwa-react-typescript"]=this["webpackJsonppwa-react-typescript"]||[]).push([[3],{31:function(e,t,a){"use strict";a.r(t);var n=a(0),l=a.n(n),c=a(12);t.default=function(){return l.a.createElement("nav",null,l.a.createElement("ul",null,l.a.createElement("li",null,l.a.createElement(c.b,{to:"/"},"Home")),l.a.createElement("li",null,l.a.createElement(c.b,{to:"/about"},"About"))))}}}]);
+//# sourceMappingURL=3.a542e650.chunk.js.map

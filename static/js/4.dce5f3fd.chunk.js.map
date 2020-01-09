@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/About.tsx"],"names":["About"],"mappings":"mIAAA,2BAQeA,UANS,WACpB,OACI","file":"static/js/4.dce5f3fd.chunk.js","sourcesContent":["import React from 'react'\n\nconst About: React.FC = () => {\n    return (\n        <h1>About Page</h1>\n    )\n}\n\nexport default About"],"sourceRoot":""}
